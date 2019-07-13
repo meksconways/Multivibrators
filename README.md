@@ -23,4 +23,8 @@ Devre elemanlarının yeri matrisle belirlenmiştir.
 
 ![alt text](https://github.com/meksconways/Multivibrators/blob/master/raw/IMG_1689.jpg)
 
+# UML
+
+![alt text](https://github.com/meksconways/Multivibrators/blob/master/raw/uml_multivibrators.png)
+
 
